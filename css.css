@@ -1,0 +1,138 @@
+
+.uredi{
+    background-color:whitesmoke;
+    height: 100%;
+    padding-left: 5%;
+    position: relative;
+}
+body{
+    background-color:rgb(77, 141, 61);
+    padding-top: 1%;
+}
+.logo{
+    margin-left: 80%;
+
+}
+.form-control{
+    background-color: turquoise;
+}
+
+  
+  
+
+.btn.btn-primary{
+    background-color:green;
+    margin-top: 1%;
+}
+.sl{
+padding-right: 20%;
+}
+.img{
+    position: absolute;
+    top: 18%;
+    right:20%;
+   
+}
+.img img{
+    max-height: 100px;
+}header{
+    padding: 10px 0;
+    margin-bottom: 50px;
+    background-color: white;
+}
+.kosarica{
+    width: 50vh;
+    background-color: white;
+    border: 2px  black solid;
+    padding: 50px;
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    top: 50px;
+    background-color:rgb(179, 191, 226);
+    font-style: oblique;
+ 
+}
+.basket{
+    position: relative;
+    
+}
+.v-hidden{
+    visibility: hidden;
+}
+.col-md-3{
+    border-top: 1px  gray dashed;
+    border-bottom: 1px  gray dashed;
+    border-right: 1px gray dashed;
+}
+.col-md-9{
+    border-top: 1px  gray solid;
+    border-bottom:1px gray solid ;
+   
+}
+.img-fluid{
+    width: 65px;
+    height: 65px;
+    margin-top: 7%;
+}
+
+
+.omo{
+position: absolute;
+padding-left: 20px;
+margin-top: 3%;
+
+}
+.pmo2{
+    position: absolute;
+    padding-left: 150px;
+    margin-top: 1.5%;
+    
+}
+.cart{
+    position: absolute;
+    top: 3%;
+}
+.para{
+    position: absolute;
+    text-align: center;
+    padding-left: 15%;
+   
+}
+
+.form-row{
+  
+}
+.dug{
+    width: 300px;
+    padding-top:5%;
+}
+.notice{
+   
+
+   
+}
+.notice2{
+
+}
+.popravi{
+    padding-top: 25%;
+   
+}
+.phon{
+   
+    position: absolute;
+    left: 35%;
+    bottom: 49.5%;
+}
+.mailo{
+    position: absolute;
+    left: 83%;
+    bottom: 3%;
+}
+/*responsive design*/
+@media screen and (max-width:1280px){}
+@media screen and (max-width:768px){
+    .glavna-slika{
+    max-width:100%;
+}}
